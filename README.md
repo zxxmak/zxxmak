@@ -1,4 +1,3 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#build-your-brand---technical-portfolio-project)
 
 # ➤ Build Your Brand - Technical Portfolio ("Project")
@@ -8,7 +7,7 @@
 
 <a href="https://skills.cogrammar.com/">
     <img src="https://d9hhrg4mnvzow.cloudfront.net/skills.cogrammar.com/e435ffee-logo-3_10a401f000000000000028.png"
-         alt="Cogrammar logo" title="Cogrammar" height="51" width="364" />
+         alt="Cogrammar logo" title="Cogrammar" height="55" width="964" />
 </a>
 
 
