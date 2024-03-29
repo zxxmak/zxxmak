@@ -4,7 +4,7 @@
 [![Python 3.12.2](https://img.shields.io/badge/python-version-blue)](https://www.python.org/downloads/release/python-3122/)
 ![Code](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=appveyor)
 
-![cogrammar](https://github.com/zxxmak/zxxmak/assets/163466077/890c14c3-757f-4a22-9397-a69819d4c093)
+![vscode-python-tutorial](https://github.com/zxxmak/zxxmak/assets/163466077/eda4b7b7-3f7c-4111-afe8-7fc4234c259d)
 
 ## Table of contents
 * [Introduction](#Intro)
@@ -20,7 +20,7 @@ Project is created with:
 * Python 3.12.2
 
 ```
-$ pip install pytorch
+$ pip install numpy
 
 ```
 	
@@ -28,6 +28,6 @@ $ pip install pytorch
 To run this project, run the main file
 
 ```
-$ python main.py
+$ python example.py
 
 ```
