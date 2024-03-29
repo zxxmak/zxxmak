@@ -1,7 +1,7 @@
 # Build Your Brand - Technical Portfolio ("Project")
 
 ![Python best practices](https://img.shields.io/badge/Python%20best%20practices-green)
-![Python 3.12.2](https://img.shields.io/badge/python-version-blue)(https://www.python.org/downloads/release/python-3122/)
+[![Python 3.12.2](https://img.shields.io/badge/python-version-blue)](https://www.python.org/downloads/release/python-3122/)
 ![Code](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=appveyor)
 
 ![cogrammar](https://github.com/zxxmak/zxxmak/assets/163466077/890c14c3-757f-4a22-9397-a69819d4c093)
